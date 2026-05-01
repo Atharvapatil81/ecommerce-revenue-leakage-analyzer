@@ -1,0 +1,1 @@
+-- MySQL queries for E-commerce Revenue Leakage Analyzer
